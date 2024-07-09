@@ -1,0 +1,111 @@
+ul{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+li{
+    list-style-type: none;
+    padding: 10px;
+    
+}
+header{
+    background-color: rgb(9, 9, 36);
+    color: white;
+    padding: 9px;
+}
+.contact{
+    background-color:rgb(248, 170, 25);
+}
+span{
+color:rgb(248, 170, 25);
+}
+.title{
+    font-size: 50px;
+}
+.mm{
+    background-image: url("img/.jpg"), linear-gradient(#eb01a5, #d13531); 
+    height: 600px;
+}
+.mm a:hover{
+    background-color:blue;
+    transition-delay: 1.9px;
+
+}
+.mm a{
+    font-size: 20px;
+    background-color:rgb(248, 170, 25);
+    border-radius: 20px;
+    padding: 10px;
+    text-decoration: none;
+}
+.mm p{
+    font-size: 20px;
+}
+.A{
+    background-color: blue;
+    padding: 39px;
+}
+.B{
+    background-color:yellow;
+    padding: 39px;
+}
+.C{
+    background-color: #eb01a5;
+    padding: 39px;
+}
+.container img:hover{
+    transition: 4s;
+}
+.rowl{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+}
+.rowl .z{
+    margin-bottom: 20px;
+}
+.tclient{
+    color:rgb(248, 170, 25);
+}
+
+.slide img{
+    border-radius: 35px;
+    width: 40px;
+   
+}
+.xx i{
+    color:rgb(248, 170, 25);
+}
+.flex{
+    display: flex;
+}
+
+.flxndm{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+.xn{
+    padding-left: 40px;
+    padding-left: 0;
+}
+.ab:hover{
+    background-color: aqua;
+}
+.ab{
+    background-color:rgb(248, 170, 25);
+    font-size:22px ;
+    border-radius: 20px;
+    padding: 10px;
+    text-decoration: none;
+}
+.gif{
+   float: right;
+
+}
+.row .grid:hover{
+    transition: 0.5s;
+
+}
